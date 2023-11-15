@@ -1,7 +1,7 @@
 questions = [
-    "Combien de fois la France a-t-elle remporté la Coupe du monde de football ?",
-    "Quand Apple a-t-elle été fondée ?",
-    "Qui a fondé SpaceX ?"
+    "Combien de fois la France a-t-elle remporté la Coupe du monde de football ? ",
+    "Quand Apple a-t-elle été fondée ? ",
+    "Qui a fondé SpaceX ? "
 ]
 reponses = [
     "2",
