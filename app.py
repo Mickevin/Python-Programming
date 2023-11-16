@@ -11,10 +11,13 @@ reponses = [
     "Elon Musk"
 ]
 
-
 def executer_quiz():
     chances_restantes = 3
     for i in range(len(questions)):
         chances_restantes = poser_question(questions[i], reponses[i], chances_restantes)
 
 executer_quiz()
+
+
+
+print("Fin du quiz")
